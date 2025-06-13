@@ -1,0 +1,6 @@
+name: MinimalPrice
+version: '1.5'
+main: me.loovcik.minimalPrice.MinimalPrice
+api-version: '1.21'
+prefix: MinimalPrice
+authors: [Loovcik]
